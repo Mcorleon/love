@@ -196,7 +196,8 @@
             var together = new Date("2018-08-12");
 
             $("#code").show().typewriter();
-            $("#clock-box").fadeIn(500);
+            setTimeout("$('#clock-box').fadeIn(5000)",37000);
+
             while (true) {
                 timeElapse(together);
                 $await(Jscex.Async.sleep(1000));
