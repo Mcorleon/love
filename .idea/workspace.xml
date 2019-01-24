@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5dcbd015-59a1-4107-ad13-d4e6d314cd8c" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/file/functions.js" afterPath="$PROJECT_DIR$/file/functions.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/loveLQY.html" afterPath="$PROJECT_DIR$/loveLQY.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -16,8 +17,8 @@
       <file leaf-file-name="loveLQY.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/loveLQY.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="346">
-              <caret line="198" column="56" lean-forward="false" selection-start-line="198" selection-start-column="56" selection-end-line="198" selection-end-column="56" />
+            <state relative-caret-position="206">
+              <caret line="45" column="53" lean-forward="true" selection-start-line="45" selection-start-column="53" selection-end-line="45" selection-end-column="53" />
               <folding />
             </state>
           </provider>
@@ -26,7 +27,7 @@
       <file leaf-file-name="love.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/file/love.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-6081">
+            <state relative-caret-position="-6067">
               <caret line="171" column="31" lean-forward="false" selection-start-line="171" selection-start-column="31" selection-end-line="171" selection-end-column="31" />
               <folding />
             </state>
@@ -36,8 +37,8 @@
       <file leaf-file-name="functions.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/file/functions.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="579">
-              <caret line="39" column="9" lean-forward="false" selection-start-line="39" selection-start-column="9" selection-end-line="39" selection-end-column="9" />
+            <state relative-caret-position="75">
+              <caret line="40" column="9" lean-forward="false" selection-start-line="40" selection-start-column="9" selection-end-line="40" selection-end-column="9" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
@@ -238,12 +239,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1548246512797</updated>
-      <workItem from="1548246514391" duration="7985000" />
+      <workItem from="1548246514391" duration="10363000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7985000" />
+    <option name="totallyTimeSpent" value="10363000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -297,24 +298,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/file/functions.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="579">
-          <caret line="39" column="9" lean-forward="false" selection-start-line="39" selection-start-column="9" selection-end-line="39" selection-end-column="9" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/file/love.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-6081">
-          <caret line="171" column="31" lean-forward="false" selection-start-line="171" selection-start-column="31" selection-end-line="171" selection-end-column="31" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/file/jquery.min.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="193">
@@ -323,10 +306,28 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/file/love.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-6067">
+          <caret line="171" column="31" lean-forward="false" selection-start-line="171" selection-start-column="31" selection-end-line="171" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/file/functions.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="40" column="9" lean-forward="false" selection-start-line="40" selection-start-column="9" selection-end-line="40" selection-end-column="9" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/loveLQY.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="346">
-          <caret line="198" column="56" lean-forward="false" selection-start-line="198" selection-start-column="56" selection-end-line="198" selection-end-column="56" />
+        <state relative-caret-position="206">
+          <caret line="45" column="53" lean-forward="true" selection-start-line="45" selection-start-column="53" selection-end-line="45" selection-end-column="53" />
           <folding />
         </state>
       </provider>

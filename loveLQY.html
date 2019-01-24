@@ -42,12 +42,12 @@
                 <span class="say">这些日子里我总能见到你的笑</span><br>
                 <span class="say">也惹过你生气</span><br>
                 <span class="say">陪你开心 陪你难过 </span><br>
-                <span class="say">和你在一起我能感到自己变得更优秀</span><br>
+                <span class="say">和你在一起我总有动力去变得更优秀</span><br>
                 <span class="say">总能发现新的自己</span><br>
                 <span class="say">总能怀有新的期待</span><br>
+                <span class="say">总是觉得阳光明媚</span><br>
                 <span class="say">我想陪你走到世界尽头 </span><br>
                 <span class="say">　　　　　　　　——你的大猪蹄子</span> </font>
-                <br/>
                 <br/>
                 </p>
             </div>
@@ -193,11 +193,8 @@
         }));
 
         var textAnimate = eval(Jscex.compile("async", function () {
-            var together = new Date("2018-08-12");
-
+            var together = new Date(2018,7,12,23,0,0);
             $("#code").show().typewriter();
-            setTimeout("$('#clock-box').fadeIn(5000)",37000);
-
             while (true) {
                 timeElapse(together);
                 $await(Jscex.Async.sleep(1000));
