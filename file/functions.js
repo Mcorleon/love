@@ -30,7 +30,14 @@ $(window).resize(function () {
                 $ele.html(str.substring(0, progress) + (progress & 1 ? '_' : ''));
                 if (progress >= str.length) {
                     clearInterval(timer);
-                    $('#clock-box').fadeIn(4000);
+                    //打字机动画结束，开始下一步
+                    $('#div1').fadeIn(4000,function () {
+                        $('#div1').fadeOut(4000,function () {
+                            $('#div1').remove();
+                            $('#clock-box').fadeIn(4000);
+                        })
+                    });
+
                 }
             }, 75);
         });

@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5dcbd015-59a1-4107-ad13-d4e6d314cd8c" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/file/default.css" afterPath="$PROJECT_DIR$/file/default.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/loveLQY.html" afterPath="$PROJECT_DIR$/loveLQY.html" />
-    </list>
+    <list default="true" id="5dcbd015-59a1-4107-ad13-d4e6d314cd8c" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -36,8 +33,8 @@
       <file leaf-file-name="love.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/file/love.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3078">
-              <caret line="171" column="31" lean-forward="false" selection-start-line="171" selection-start-column="31" selection-end-line="171" selection-end-column="31" />
+            <state relative-caret-position="216">
+              <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -142,7 +139,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../LoveSourceCode/表白网页款式二源码" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../MyCodePractice" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -249,12 +246,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1548246512797</updated>
-      <workItem from="1548246514391" duration="13032000" />
+      <workItem from="1548246514391" duration="14887000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13032000" />
+    <option name="totallyTimeSpent" value="14887000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -343,8 +340,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/file/love.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3078">
-          <caret line="171" column="31" lean-forward="false" selection-start-line="171" selection-start-column="31" selection-end-line="171" selection-end-column="31" />
+        <state relative-caret-position="216">
+          <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
           <folding />
         </state>
       </provider>
